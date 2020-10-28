@@ -1,0 +1,5 @@
+﻿  ConsoleApplication1.cpp
+d:\xx\gameloft\consoleapplication1\consoleapplication1\consoleapplication1.cpp(71): warning C4715: 'Closed::GetNextState': not all control paths return a value
+d:\xx\gameloft\consoleapplication1\consoleapplication1\consoleapplication1.cpp(78): warning C4715: 'Un_Locked::GetNextState': not all control paths return a value
+  ConsoleApplication1.vcxproj -> D:\XX\Gameloft\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\XX\Gameloft\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)
